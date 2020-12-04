@@ -1,6 +1,5 @@
 from selenium import webdriver
 
-
 import time
 
 from colorama import Fore
@@ -245,14 +244,6 @@ while bot_start:
             orange_answer_text = orange_answer.text
             green_answer_text = green_answer.text
             blue_answer_text = blue_answer.text
-            
-            print("======================================")
-            print(f"Question: {question_text}")
-            print(f"1: {red_answer_text}")
-            print(f"2: {orange_answer_text}")
-            print(f"3: {green_answer_text}")
-            print(f"4: {blue_answer_text}")
-            print("======================================")
 
             is_exist = False
 
