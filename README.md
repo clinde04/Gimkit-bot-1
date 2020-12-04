@@ -14,6 +14,6 @@ https://freesound.org/people/sqeeeek/sounds/237106/
 
 
 ## DISCLAIMER:
-My Products are for EDUCATIONAL PURPOSE ONLY. Don't use them for illegal activities. You are the only responssable for your actions!!!
+My Products are for EDUCATIONAL PURPOSE ONLY.
 
 
