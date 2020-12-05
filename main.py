@@ -9,7 +9,7 @@ options = webdriver.ChromeOptions();
 options.add_experimental_option("excludeSwitches", ['enable-automation']);
 options.add_argument('--start-maximized')
 
-driver = webdriver.Chrome(executable_path='workspace\Gimkit-bot-1\chromedriver', options= options) 
+driver = webdriver.Chrome('/workspace/Gimkit-bot-1/chromedriver', options= options) 
 
 driver.get("https://www.gimkit.com/live")
 
